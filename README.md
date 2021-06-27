@@ -1,2 +1,2 @@
-# 3tg
+# 3TG
 Exchange
